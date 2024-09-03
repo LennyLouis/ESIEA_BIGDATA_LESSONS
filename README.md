@@ -41,6 +41,6 @@ Coming Soon
     
     - [TP 00](./PARTIE_02/PRATIQUE/TP_00.md)
 
-### [Partie 03 : Evaluation finale](./PARTIE_03/EVALUATION_BIG_DATA.md)
+### [Partie 03 : Evaluation finale : 04/09/2024](./PARTIE_03/EVALUATION_BIG_DATA.md)
 
 Nous vous souhaitons un excellent apprentissage et n'hésitez pas à poser des questions ou à partager vos retours! 🚀🌍💼.
