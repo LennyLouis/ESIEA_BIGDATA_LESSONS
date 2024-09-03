@@ -19,19 +19,18 @@
 
   - [Evaluation](./PARTIE_00/NOSQL/EVALUATION/inter-py-mongo-evaluation.md)
 
-Coming Soon
-
   - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
 
 ### [Partie 01 : Hadoop : 8h : 03/09/2024](./PARTIE_01/)
 
   - [Théorie](./PARTIE_01/THEORIE/Pres_Hadoop.pdf)
 
-    - [Conteneurs Docker Apple Silicon](./PARTIE_01/HADOOP_APPLE_SILICON/)
-
   - [Pratique](./PARTIE_01/PRATIQUE/)
    
-    - [TP 00](./PARTIE_01/PRATIQUE/TP_00.md)  
+    - [TP 00](./PARTIE_01/PRATIQUE/TP_00.md)
+      
+      - [Conteneurs Docker (Utilisateurs Apple Silicon)](./PARTIE_01/HADOOP_APPLE_SILICON/)  
+    
     - [TP 01](./PARTIE_01/PRATIQUE/TP_01.md) 
 
 ### [Partie 02 : Spark : 5h : 04/09/2024](./PARTIE_02/)
