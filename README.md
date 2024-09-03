@@ -7,7 +7,7 @@
 ## Plan du Cours
 
 
-### [Partie 00 : Introduction + NoSQL](./PARTIE_00/)
+### [Partie 00 : Introduction au Big Data + NoSQL : 3h30 : 02/09/2024](./PARTIE_00/)
 
 - [Introduction à la Big Data](./PARTIE_00/INTRO_BIG_DATA/Pres_IntroBigData.pdf))
 
@@ -23,24 +23,24 @@ Coming Soon
 
   - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
 
-### [Partie 01 : Big Data (2 jours)](./PARTIE_01/)
+### [Partie 01 : Hadoop : 8h : 03/09/2024](./PARTIE_01/)
 
-- [Théorie](./PARTIE_01/THEORIE/)
+  - [Théorie](./PARTIE_01/THEORIE/Pres_Hadoop.pdf)
 
-  - [Hadoop](./PARTIE_01/THEORIE/HADOOP/Pres_Hadoop.pdf)
+    - [Conteneurs Docker Apple Silicon](./PARTIE_01/HADOOP_APPLE_SILICON/)
 
-  - [Résumé Big Data & Hadoop](./PARTIE_01/THEORIE/INTRO_BIG_DATA/Pres_IntroBigData_Simplified.pdf)
+  - [Pratique](./PARTIE_01/PRATIQUE/)
+   
+    - [TP 00](./PARTIE_01/PRATIQUE/TP_00.md)  
+    - [TP 01](./PARTIE_01/PRATIQUE/TP_01.md) 
 
-  - [Spark](./PARTIE_01/THEORIE/SPARK/Pres_Spark.pdf)
+### [Partie 02 : Spark : 5h : 04/09/2024](./PARTIE_02/)
 
-- [Pratique](./PARTIE_01/PRATIQUE/)
+  - [Théorie](./PARTIE_01/THEORIE/Pres_Spark.pdf)
+  - [Pratique](./PARTIE_01/PRATIQUE/)
+    
+    - [TP 00](./PARTIE_02/PRATIQUE/TP_00.md)
 
-    [Conteneurs Docker Apple Silicon](./PARTIE_01/PRATIQUE/HADOOP_APPLE_SILICON/)
-
-  - [TP Hadoop](./PARTIE_01/PRATIQUE/TP1.md) 
- 
-  - [TP Spark](./PARTIE_01/PRATIQUE/TP2.md)
-
-### [Partie 02 : Evaluation finale](./PARTIE_02/EVALUATION_BIG_DATA.md)
+### [Partie 03 : Evaluation finale](./PARTIE_03/EVALUATION_BIG_DATA.md)
 
 Nous vous souhaitons un excellent apprentissage et n'hésitez pas à poser des questions ou à partager vos retours! 🚀🌍💼.
