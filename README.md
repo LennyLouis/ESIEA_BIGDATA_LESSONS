@@ -32,6 +32,8 @@
       - [Conteneurs Docker (Utilisateurs Apple Silicon)](./PARTIE_01/HADOOP_APPLE_SILICON/)  
     
     - [TP 01](./PARTIE_01/PRATIQUE/TP_01.md) 
+  
+Coming soon 
 
 ### [Partie 02 : Spark : 5h : 04/09/2024](./PARTIE_02/)
 
