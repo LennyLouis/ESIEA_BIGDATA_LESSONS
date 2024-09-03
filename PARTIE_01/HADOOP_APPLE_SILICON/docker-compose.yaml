@@ -11,6 +11,7 @@ services:
       - "19888:19888"  # Job History Server UI
     environment:
       - "SERVICE_PRECONDITION=namenode"
+      - "JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-arm64/"
     volumes:
       - hadoop_data:/hadoop/dfs/name
     networks:
